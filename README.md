@@ -16,9 +16,10 @@ A simple interactive **Rock-Paper-Scissor** game built with **HTML**, **CSS**, a
 
 ## 🚀 How to Run
 
-1. **Clone this repository**:
+1. **Clone this repository:**
+
    ```bash
-  git clone https://github.com/utkrush123/rock-paper-scissor.git
+   git clone https://github.com/utkrush123/rock-paper-scissor.git
    
 ## Project Structure
 rock-paper-scissor/
